@@ -18,7 +18,7 @@ public class AdditionTest {
         operation = new OperationsImpl();
     }
 
-    @Title("check calculation")
+    @Title("Check calculation")
     @Test
     @Step("addition operand1 and operand2")
     public void sum() throws Exception {

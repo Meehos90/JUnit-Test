@@ -17,7 +17,7 @@ public class MultiplyTest {
         operation = new OperationsImpl();
     }
 
-    @Title("check calculation")
+    @Title("Check calculation")
     @Test
     @Step("addition operand1 and operand2")
     public void mltiply() throws Exception {

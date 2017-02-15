@@ -1,11 +1,11 @@
 {
-  "uid" : "e99a2998231e9cba",
+  "uid" : "da421df829705194",
   "name" : "divMinMax",
   "title" : "Check borders",
   "time" : {
-    "start" : 1487168143200,
-    "stop" : 1487168143213,
-    "duration" : 13
+    "start" : 1487188845200,
+    "stop" : 1487188845216,
+    "duration" : 16
   },
   "summary" : {
     "attachments" : 0,
@@ -17,7 +17,7 @@
   "status" : "PASSED",
   "testId" : null,
   "suite" : {
-    "uid" : "2cc1839a13371adb",
+    "uid" : "769a1acc90827094",
     "name" : "DivideTest",
     "title" : "Divide suit"
   },
@@ -25,9 +25,9 @@
     "name" : "divMinMax",
     "title" : "Check borders",
     "time" : {
-      "start" : 1487168143203,
-      "stop" : 1487168143211,
-      "duration" : 8
+      "start" : 1487188845204,
+      "stop" : 1487188845216,
+      "duration" : 12
     },
     "summary" : {
       "attachments" : 0,
@@ -39,8 +39,8 @@
       "name" : "operand1[-9223372036854775808]",
       "title" : "operand1 = -9 223 372 036 854 775 808",
       "time" : {
-        "start" : 1487168143207,
-        "stop" : 1487168143207,
+        "start" : 1487188845212,
+        "stop" : 1487188845212,
         "duration" : 0
       },
       "summary" : {
@@ -54,8 +54,8 @@
       "name" : "operand2[-1]",
       "title" : "operand2 = -1",
       "time" : {
-        "start" : 1487168143211,
-        "stop" : 1487168143211,
+        "start" : 1487188845216,
+        "stop" : 1487188845216,
         "duration" : 0
       },
       "summary" : {
@@ -71,7 +71,7 @@
   "issues" : [ ],
   "labels" : [ {
     "name" : "thread",
-    "value" : "4856@Meehos-PC.main(1)"
+    "value" : "6728@Meehos-PC.main(1)"
   }, {
     "name" : "suite-name",
     "value" : "DivideTest"

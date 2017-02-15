@@ -1,15 +1,15 @@
 {
-  "uid" : "55f3f5ced2e2912d",
-  "name" : "div",
-  "title" : "check calculation",
+  "uid" : "49eebe0fb120a1f9",
+  "name" : "divideZero",
+  "title" : "Divide by zero",
   "time" : {
-    "start" : 1487168143178,
-    "stop" : 1487168143196,
-    "duration" : 18
+    "start" : 1487188845097,
+    "stop" : 1487188845178,
+    "duration" : 81
   },
   "summary" : {
     "attachments" : 0,
-    "steps" : 4
+    "steps" : 3
   },
   "failure" : null,
   "description" : null,
@@ -17,30 +17,30 @@
   "status" : "PASSED",
   "testId" : null,
   "suite" : {
-    "uid" : "2cc1839a13371adb",
+    "uid" : "769a1acc90827094",
     "name" : "DivideTest",
     "title" : "Divide suit"
   },
   "steps" : [ {
-    "name" : "div",
-    "title" : "divide operand1 and operand2",
+    "name" : "divideZero",
+    "title" : "Divide by zero",
     "time" : {
-      "start" : 1487168143183,
-      "stop" : 1487168143195,
-      "duration" : 12
+      "start" : 1487188845102,
+      "stop" : 1487188845178,
+      "duration" : 76
     },
     "summary" : {
       "attachments" : 0,
-      "steps" : 3
+      "steps" : 2
     },
-    "status" : "PASSED",
+    "status" : "BROKEN",
     "attachments" : [ ],
     "steps" : [ {
-      "name" : "operand1[15]",
-      "title" : "operand1 = 15",
+      "name" : "operand1[5]",
+      "title" : "operand1 = 5",
       "time" : {
-        "start" : 1487168143187,
-        "stop" : 1487168143187,
+        "start" : 1487188845173,
+        "stop" : 1487188845173,
         "duration" : 0
       },
       "summary" : {
@@ -51,26 +51,11 @@
       "attachments" : [ ],
       "steps" : [ ]
     }, {
-      "name" : "operand2[3]",
-      "title" : "operand2 = 3",
+      "name" : "operand2[0]",
+      "title" : "operand2 = 0",
       "time" : {
-        "start" : 1487168143191,
-        "stop" : 1487168143191,
-        "duration" : 0
-      },
-      "summary" : {
-        "attachments" : 0,
-        "steps" : 0
-      },
-      "status" : "PASSED",
-      "attachments" : [ ],
-      "steps" : [ ]
-    }, {
-      "name" : "result[5.0]",
-      "title" : "result 5",
-      "time" : {
-        "start" : 1487168143195,
-        "stop" : 1487168143195,
+        "start" : 1487188845178,
+        "stop" : 1487188845178,
         "duration" : 0
       },
       "summary" : {
@@ -86,7 +71,7 @@
   "issues" : [ ],
   "labels" : [ {
     "name" : "thread",
-    "value" : "4856@Meehos-PC.main(1)"
+    "value" : "6728@Meehos-PC.main(1)"
   }, {
     "name" : "suite-name",
     "value" : "DivideTest"

@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ns2:test-suite start="1487168142504" stop="1487168143999" version="1.4.23.HOTFIX1" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
-    <name>AdditionTest</name>
-    <title>Addition suit</title>
+<ns2:test-suite start="1487188845221" stop="1487188845323" version="1.4.23.HOTFIX1" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>MultiplyTest</name>
+    <title>Multiply suit</title>
     <test-cases>
-        <test-case start="1487168142696" stop="1487168143112" status="passed">
-            <name>sum</name>
-            <title>check calculation</title>
+        <test-case start="1487188845221" stop="1487188845247" status="passed">
+            <name>mltiply</name>
+            <title>Check calculation</title>
             <steps>
-                <step start="1487168143050" stop="1487168143105" status="passed">
-                    <name>sum</name>
+                <step start="1487188845226" stop="1487188845247" status="passed">
+                    <name>mltiply</name>
                     <title>addition operand1 and operand2</title>
                     <attachments/>
                     <steps>
-                        <step start="1487168143079" stop="1487168143091" status="passed">
+                        <step start="1487188845230" stop="1487188845230" status="passed">
                             <name>operand1[5]</name>
                             <title>operand1 = 5</title>
                             <attachments/>
                             <steps/>
                         </step>
-                        <step start="1487168143099" stop="1487168143099" status="passed">
-                            <name>operand2[7]</name>
-                            <title>operand2 = 7</title>
+                        <step start="1487188845234" stop="1487188845234" status="passed">
+                            <name>operand2[3]</name>
+                            <title>operand2 = 3</title>
                             <attachments/>
                             <steps/>
                         </step>
-                        <step start="1487168143105" stop="1487168143105" status="passed">
-                            <name>result[12]</name>
-                            <title>result 12</title>
+                        <step start="1487188845247" stop="1487188845247" status="passed">
+                            <name>result[15]</name>
+                            <title>result 15</title>
                             <attachments/>
                             <steps/>
                         </step>
@@ -36,27 +36,27 @@
             <attachments/>
             <labels>
                 <label name="host" value="Meehos-PC"/>
-                <label name="thread" value="4856@Meehos-PC.main(1)"/>
+                <label name="thread" value="6728@Meehos-PC.main(1)"/>
             </labels>
         </test-case>
-        <test-case start="1487168143128" stop="1487168143149" status="passed">
-            <name>sumMinMax</name>
+        <test-case start="1487188845251" stop="1487188845269" status="passed">
+            <name>multiplyMinMax</name>
             <title>Check borders</title>
             <steps>
-                <step start="1487168143132" stop="1487168143148" status="broken">
-                    <name>sumMinMax</name>
+                <step start="1487188845258" stop="1487188845268" status="broken">
+                    <name>multiplyMinMax</name>
                     <title>Check borders</title>
                     <attachments/>
                     <steps>
-                        <step start="1487168143138" stop="1487168143138" status="passed">
+                        <step start="1487188845264" stop="1487188845264" status="passed">
                             <name>operand1[9223372036854775807]</name>
                             <title>operand1 = 9 223 372 036 854 775 807</title>
                             <attachments/>
                             <steps/>
                         </step>
-                        <step start="1487168143143" stop="1487168143143" status="passed">
-                            <name>operand2[9223372036854775807]</name>
-                            <title>operand2 = 9 223 372 036 854 775 807</title>
+                        <step start="1487188845268" stop="1487188845268" status="passed">
+                            <name>operand1[9223372036854775807]</name>
+                            <title>operand1 = 9 223 372 036 854 775 807</title>
                             <attachments/>
                             <steps/>
                         </step>
@@ -66,7 +66,7 @@
             <attachments/>
             <labels>
                 <label name="host" value="Meehos-PC"/>
-                <label name="thread" value="4856@Meehos-PC.main(1)"/>
+                <label name="thread" value="6728@Meehos-PC.main(1)"/>
             </labels>
         </test-case>
     </test-cases>

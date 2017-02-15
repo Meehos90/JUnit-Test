@@ -13,10 +13,6 @@ public class DivideTest {
 
     private Operations operation;
 
-    public static long rnd(long min, long max)
-    {   max -= min;
-        return (long) (Math.random() * ++max) + min;
-    }
 
     @Before
     public void setup() {
@@ -24,11 +20,11 @@ public class DivideTest {
     }
 
     @Step("result {0}")
-    public static double result(double a){
+    private static double result(double a){
         return a;
     }
 
-    @Title("check calculation")
+    @Title("Check calculation")
     @Test
     @Step("divide operand1 and operand2")
     public void div() throws Exception {
@@ -41,7 +37,7 @@ public class DivideTest {
     @Step("Divide by zero")
     @Test(expected = OperationException.class)
     public void divideZero() throws Exception {
-        operation.div(Parameters.operand1(rnd(Long.MIN_VALUE,Long.MAX_VALUE)),Parameters.operand2(0));
+        operation.div(Parameters.operand1(5),Parameters.operand2(0));
     }
 
     @Title("Check borders")

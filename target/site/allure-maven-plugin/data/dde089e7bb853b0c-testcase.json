@@ -1,11 +1,11 @@
 {
-  "uid" : "2c07d9c02761356d",
+  "uid" : "dde089e7bb853b0c",
   "name" : "sum",
-  "title" : "check calculation",
+  "title" : "Check calculation",
   "time" : {
-    "start" : 1487168142696,
-    "stop" : 1487168143112,
-    "duration" : 416
+    "start" : 1487188844505,
+    "stop" : 1487188845044,
+    "duration" : 539
   },
   "summary" : {
     "attachments" : 0,
@@ -17,7 +17,7 @@
   "status" : "PASSED",
   "testId" : null,
   "suite" : {
-    "uid" : "6a5abe982400dd4a",
+    "uid" : "860885282d9d2d00",
     "name" : "AdditionTest",
     "title" : "Addition suit"
   },
@@ -25,9 +25,9 @@
     "name" : "sum",
     "title" : "addition operand1 and operand2",
     "time" : {
-      "start" : 1487168143050,
-      "stop" : 1487168143105,
-      "duration" : 55
+      "start" : 1487188844986,
+      "stop" : 1487188845039,
+      "duration" : 53
     },
     "summary" : {
       "attachments" : 0,
@@ -39,9 +39,9 @@
       "name" : "operand1[5]",
       "title" : "operand1 = 5",
       "time" : {
-        "start" : 1487168143079,
-        "stop" : 1487168143091,
-        "duration" : 12
+        "start" : 1487188845012,
+        "stop" : 1487188845023,
+        "duration" : 11
       },
       "summary" : {
         "attachments" : 0,
@@ -54,8 +54,8 @@
       "name" : "operand2[7]",
       "title" : "operand2 = 7",
       "time" : {
-        "start" : 1487168143099,
-        "stop" : 1487168143099,
+        "start" : 1487188845031,
+        "stop" : 1487188845031,
         "duration" : 0
       },
       "summary" : {
@@ -69,8 +69,8 @@
       "name" : "result[12]",
       "title" : "result 12",
       "time" : {
-        "start" : 1487168143105,
-        "stop" : 1487168143105,
+        "start" : 1487188845039,
+        "stop" : 1487188845039,
         "duration" : 0
       },
       "summary" : {
@@ -86,7 +86,7 @@
   "issues" : [ ],
   "labels" : [ {
     "name" : "thread",
-    "value" : "4856@Meehos-PC.main(1)"
+    "value" : "6728@Meehos-PC.main(1)"
   }, {
     "name" : "suite-name",
     "value" : "AdditionTest"

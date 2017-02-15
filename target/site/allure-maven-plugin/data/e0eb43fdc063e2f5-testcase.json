@@ -1,11 +1,11 @@
 {
-  "uid" : "d309492c64458b91",
-  "name" : "multiplyMinMax",
+  "uid" : "e0eb43fdc063e2f5",
+  "name" : "minusMinMax",
   "title" : "Check borders",
   "time" : {
-    "start" : 1487168143242,
-    "stop" : 1487168143256,
-    "duration" : 14
+    "start" : 1487188845298,
+    "stop" : 1487188845313,
+    "duration" : 15
   },
   "summary" : {
     "attachments" : 0,
@@ -17,17 +17,17 @@
   "status" : "PASSED",
   "testId" : null,
   "suite" : {
-    "uid" : "9d7682c89adefb38",
-    "name" : "MultiplyTest",
-    "title" : "Multiply suit"
+    "uid" : "a4b56e15f4326402",
+    "name" : "SubtractTest",
+    "title" : "Subtract suit"
   },
   "steps" : [ {
-    "name" : "multiplyMinMax",
+    "name" : "minusMinMax",
     "title" : "Check borders",
     "time" : {
-      "start" : 1487168143246,
-      "stop" : 1487168143256,
-      "duration" : 10
+      "start" : 1487188845302,
+      "stop" : 1487188845313,
+      "duration" : 11
     },
     "summary" : {
       "attachments" : 0,
@@ -36,11 +36,11 @@
     "status" : "BROKEN",
     "attachments" : [ ],
     "steps" : [ {
-      "name" : "operand1[9223372036854775807]",
-      "title" : "operand1 = 9 223 372 036 854 775 807",
+      "name" : "operand1[-9223372036854775808]",
+      "title" : "operand1 = -9 223 372 036 854 775 808",
       "time" : {
-        "start" : 1487168143252,
-        "stop" : 1487168143252,
+        "start" : 1487188845308,
+        "stop" : 1487188845308,
         "duration" : 0
       },
       "summary" : {
@@ -51,11 +51,11 @@
       "attachments" : [ ],
       "steps" : [ ]
     }, {
-      "name" : "operand1[9223372036854775807]",
-      "title" : "operand1 = 9 223 372 036 854 775 807",
+      "name" : "operand2[1]",
+      "title" : "operand2 = 1",
       "time" : {
-        "start" : 1487168143256,
-        "stop" : 1487168143256,
+        "start" : 1487188845313,
+        "stop" : 1487188845313,
         "duration" : 0
       },
       "summary" : {
@@ -70,8 +70,11 @@
   "attachments" : [ ],
   "issues" : [ ],
   "labels" : [ {
+    "name" : "suite-title",
+    "value" : "Subtract suit"
+  }, {
     "name" : "thread",
-    "value" : "4856@Meehos-PC.main(1)"
+    "value" : "6728@Meehos-PC.main(1)"
   }, {
     "name" : "framework",
     "value" : "JUnit"
@@ -79,14 +82,11 @@
     "name" : "language",
     "value" : "JAVA"
   }, {
-    "name" : "suite-title",
-    "value" : "Multiply suit"
+    "name" : "suite-name",
+    "value" : "SubtractTest"
   }, {
     "name" : "host",
     "value" : "Meehos-PC"
-  }, {
-    "name" : "suite-name",
-    "value" : "MultiplyTest"
   } ],
   "parameters" : [ ]
 }

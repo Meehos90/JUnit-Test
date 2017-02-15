@@ -20,11 +20,11 @@ public class SubtractTest {
         operation = new OperationsImpl();
     }
 
-    @Title("check calculation")
+    @Title("Check calculation")
     @Test
     @Step("addition operand1 and operand2")
     public void minus() throws Exception {
-        long actual = operation.minus(15,3);
+        long actual = operation.minus(Parameters.operand1(15),Parameters.operand2(3));
         Parameters.result(actual);
         Assert.assertEquals(12, actual);
     }
