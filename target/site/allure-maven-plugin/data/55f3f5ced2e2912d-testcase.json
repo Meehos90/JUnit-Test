@@ -1,0 +1,107 @@
+{
+  "uid" : "55f3f5ced2e2912d",
+  "name" : "div",
+  "title" : "check calculation",
+  "time" : {
+    "start" : 1487168143178,
+    "stop" : 1487168143196,
+    "duration" : 18
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 4
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "2cc1839a13371adb",
+    "name" : "DivideTest",
+    "title" : "Divide suit"
+  },
+  "steps" : [ {
+    "name" : "div",
+    "title" : "divide operand1 and operand2",
+    "time" : {
+      "start" : 1487168143183,
+      "stop" : 1487168143195,
+      "duration" : 12
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 3
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ {
+      "name" : "operand1[15]",
+      "title" : "operand1 = 15",
+      "time" : {
+        "start" : 1487168143187,
+        "stop" : 1487168143187,
+        "duration" : 0
+      },
+      "summary" : {
+        "attachments" : 0,
+        "steps" : 0
+      },
+      "status" : "PASSED",
+      "attachments" : [ ],
+      "steps" : [ ]
+    }, {
+      "name" : "operand2[3]",
+      "title" : "operand2 = 3",
+      "time" : {
+        "start" : 1487168143191,
+        "stop" : 1487168143191,
+        "duration" : 0
+      },
+      "summary" : {
+        "attachments" : 0,
+        "steps" : 0
+      },
+      "status" : "PASSED",
+      "attachments" : [ ],
+      "steps" : [ ]
+    }, {
+      "name" : "result[5.0]",
+      "title" : "result 5",
+      "time" : {
+        "start" : 1487168143195,
+        "stop" : 1487168143195,
+        "duration" : 0
+      },
+      "summary" : {
+        "attachments" : 0,
+        "steps" : 0
+      },
+      "status" : "PASSED",
+      "attachments" : [ ],
+      "steps" : [ ]
+    } ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "4856@Meehos-PC.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "DivideTest"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : "Divide suit"
+  }, {
+    "name" : "host",
+    "value" : "Meehos-PC"
+  } ],
+  "parameters" : [ ]
+}

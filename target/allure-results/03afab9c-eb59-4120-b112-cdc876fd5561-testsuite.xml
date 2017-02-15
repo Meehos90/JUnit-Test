@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1487168143218" stop="1487168143301" version="1.4.23.HOTFIX1" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>MultiplyTest</name>
+    <title>Multiply suit</title>
+    <test-cases>
+        <test-case start="1487168143219" stop="1487168143238" status="passed">
+            <name>mltiply</name>
+            <title>check calculation</title>
+            <steps>
+                <step start="1487168143224" stop="1487168143238" status="passed">
+                    <name>mltiply</name>
+                    <title>addition operand1 and operand2</title>
+                    <attachments/>
+                    <steps>
+                        <step start="1487168143228" stop="1487168143228" status="passed">
+                            <name>operand1[5]</name>
+                            <title>operand1 = 5</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start="1487168143232" stop="1487168143232" status="passed">
+                            <name>operand2[3]</name>
+                            <title>operand2 = 3</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start="1487168143237" stop="1487168143238" status="passed">
+                            <name>result[15]</name>
+                            <title>result 15</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="Meehos-PC"/>
+                <label name="thread" value="4856@Meehos-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487168143242" stop="1487168143256" status="passed">
+            <name>multiplyMinMax</name>
+            <title>Check borders</title>
+            <steps>
+                <step start="1487168143246" stop="1487168143256" status="broken">
+                    <name>multiplyMinMax</name>
+                    <title>Check borders</title>
+                    <attachments/>
+                    <steps>
+                        <step start="1487168143252" stop="1487168143252" status="passed">
+                            <name>operand1[9223372036854775807]</name>
+                            <title>operand1 = 9 223 372 036 854 775 807</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start="1487168143256" stop="1487168143256" status="passed">
+                            <name>operand1[9223372036854775807]</name>
+                            <title>operand1 = 9 223 372 036 854 775 807</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="Meehos-PC"/>
+                <label name="thread" value="4856@Meehos-PC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

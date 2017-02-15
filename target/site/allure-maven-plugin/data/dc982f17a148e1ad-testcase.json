@@ -1,0 +1,107 @@
+{
+  "uid" : "dc982f17a148e1ad",
+  "name" : "mltiply",
+  "title" : "check calculation",
+  "time" : {
+    "start" : 1487168143219,
+    "stop" : 1487168143238,
+    "duration" : 19
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 4
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "9d7682c89adefb38",
+    "name" : "MultiplyTest",
+    "title" : "Multiply suit"
+  },
+  "steps" : [ {
+    "name" : "mltiply",
+    "title" : "addition operand1 and operand2",
+    "time" : {
+      "start" : 1487168143224,
+      "stop" : 1487168143238,
+      "duration" : 14
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 3
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ {
+      "name" : "operand1[5]",
+      "title" : "operand1 = 5",
+      "time" : {
+        "start" : 1487168143228,
+        "stop" : 1487168143228,
+        "duration" : 0
+      },
+      "summary" : {
+        "attachments" : 0,
+        "steps" : 0
+      },
+      "status" : "PASSED",
+      "attachments" : [ ],
+      "steps" : [ ]
+    }, {
+      "name" : "operand2[3]",
+      "title" : "operand2 = 3",
+      "time" : {
+        "start" : 1487168143232,
+        "stop" : 1487168143232,
+        "duration" : 0
+      },
+      "summary" : {
+        "attachments" : 0,
+        "steps" : 0
+      },
+      "status" : "PASSED",
+      "attachments" : [ ],
+      "steps" : [ ]
+    }, {
+      "name" : "result[15]",
+      "title" : "result 15",
+      "time" : {
+        "start" : 1487168143237,
+        "stop" : 1487168143238,
+        "duration" : 1
+      },
+      "summary" : {
+        "attachments" : 0,
+        "steps" : 0
+      },
+      "status" : "PASSED",
+      "attachments" : [ ],
+      "steps" : [ ]
+    } ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "4856@Meehos-PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : "Multiply suit"
+  }, {
+    "name" : "host",
+    "value" : "Meehos-PC"
+  }, {
+    "name" : "suite-name",
+    "value" : "MultiplyTest"
+  } ],
+  "parameters" : [ ]
+}

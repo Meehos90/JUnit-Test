@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1487168143262" stop="1487168144033" version="1.4.23.HOTFIX1" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>SubtractTest</name>
+    <title>Subtract suit</title>
+    <test-cases>
+        <test-case start="1487168143265" stop="1487168143275" status="passed">
+            <name>minus</name>
+            <title>check calculation</title>
+            <steps>
+                <step start="1487168143269" stop="1487168143274" status="passed">
+                    <name>minus</name>
+                    <title>addition operand1 and operand2</title>
+                    <attachments/>
+                    <steps>
+                        <step start="1487168143274" stop="1487168143274" status="passed">
+                            <name>result[12]</name>
+                            <title>result 12</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="Meehos-PC"/>
+                <label name="thread" value="4856@Meehos-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1487168143280" stop="1487168143294" status="passed">
+            <name>minusMinMax</name>
+            <title>Check borders</title>
+            <steps>
+                <step start="1487168143283" stop="1487168143293" status="broken">
+                    <name>minusMinMax</name>
+                    <title>Check borders</title>
+                    <attachments/>
+                    <steps>
+                        <step start="1487168143290" stop="1487168143290" status="passed">
+                            <name>operand1[-9223372036854775808]</name>
+                            <title>operand1 = -9 223 372 036 854 775 808</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start="1487168143293" stop="1487168143293" status="passed">
+                            <name>operand2[1]</name>
+                            <title>operand2 = 1</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="Meehos-PC"/>
+                <label name="thread" value="4856@Meehos-PC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

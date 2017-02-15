@@ -1,0 +1,92 @@
+{
+  "uid" : "5ac75894b218f17f",
+  "name" : "divideZero",
+  "title" : "Divide by zero",
+  "time" : {
+    "start" : 1487168143159,
+    "stop" : 1487168143175,
+    "duration" : 16
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 3
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "2cc1839a13371adb",
+    "name" : "DivideTest",
+    "title" : "Divide suit"
+  },
+  "steps" : [ {
+    "name" : "divideZero",
+    "title" : "Divide by zero",
+    "time" : {
+      "start" : 1487168143164,
+      "stop" : 1487168143174,
+      "duration" : 10
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 2
+    },
+    "status" : "BROKEN",
+    "attachments" : [ ],
+    "steps" : [ {
+      "name" : "operand1[-9223372036854775808]",
+      "title" : "operand1 = -9 223 372 036 854 775 808",
+      "time" : {
+        "start" : 1487168143170,
+        "stop" : 1487168143170,
+        "duration" : 0
+      },
+      "summary" : {
+        "attachments" : 0,
+        "steps" : 0
+      },
+      "status" : "PASSED",
+      "attachments" : [ ],
+      "steps" : [ ]
+    }, {
+      "name" : "operand2[0]",
+      "title" : "operand2 = 0",
+      "time" : {
+        "start" : 1487168143174,
+        "stop" : 1487168143174,
+        "duration" : 0
+      },
+      "summary" : {
+        "attachments" : 0,
+        "steps" : 0
+      },
+      "status" : "PASSED",
+      "attachments" : [ ],
+      "steps" : [ ]
+    } ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "4856@Meehos-PC.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "DivideTest"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : "Divide suit"
+  }, {
+    "name" : "host",
+    "value" : "Meehos-PC"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,92 @@
+{
+  "uid" : "3a3097a3df21af97",
+  "name" : "sumMinMax",
+  "title" : "Check borders",
+  "time" : {
+    "start" : 1487168143128,
+    "stop" : 1487168143149,
+    "duration" : 21
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 3
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "6a5abe982400dd4a",
+    "name" : "AdditionTest",
+    "title" : "Addition suit"
+  },
+  "steps" : [ {
+    "name" : "sumMinMax",
+    "title" : "Check borders",
+    "time" : {
+      "start" : 1487168143132,
+      "stop" : 1487168143148,
+      "duration" : 16
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 2
+    },
+    "status" : "BROKEN",
+    "attachments" : [ ],
+    "steps" : [ {
+      "name" : "operand1[9223372036854775807]",
+      "title" : "operand1 = 9 223 372 036 854 775 807",
+      "time" : {
+        "start" : 1487168143138,
+        "stop" : 1487168143138,
+        "duration" : 0
+      },
+      "summary" : {
+        "attachments" : 0,
+        "steps" : 0
+      },
+      "status" : "PASSED",
+      "attachments" : [ ],
+      "steps" : [ ]
+    }, {
+      "name" : "operand2[9223372036854775807]",
+      "title" : "operand2 = 9 223 372 036 854 775 807",
+      "time" : {
+        "start" : 1487168143143,
+        "stop" : 1487168143143,
+        "duration" : 0
+      },
+      "summary" : {
+        "attachments" : 0,
+        "steps" : 0
+      },
+      "status" : "PASSED",
+      "attachments" : [ ],
+      "steps" : [ ]
+    } ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "4856@Meehos-PC.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "AdditionTest"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : "Addition suit"
+  }, {
+    "name" : "host",
+    "value" : "Meehos-PC"
+  } ],
+  "parameters" : [ ]
+}

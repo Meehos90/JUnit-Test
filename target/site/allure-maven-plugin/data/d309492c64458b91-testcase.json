@@ -1,0 +1,92 @@
+{
+  "uid" : "d309492c64458b91",
+  "name" : "multiplyMinMax",
+  "title" : "Check borders",
+  "time" : {
+    "start" : 1487168143242,
+    "stop" : 1487168143256,
+    "duration" : 14
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 3
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "9d7682c89adefb38",
+    "name" : "MultiplyTest",
+    "title" : "Multiply suit"
+  },
+  "steps" : [ {
+    "name" : "multiplyMinMax",
+    "title" : "Check borders",
+    "time" : {
+      "start" : 1487168143246,
+      "stop" : 1487168143256,
+      "duration" : 10
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 2
+    },
+    "status" : "BROKEN",
+    "attachments" : [ ],
+    "steps" : [ {
+      "name" : "operand1[9223372036854775807]",
+      "title" : "operand1 = 9 223 372 036 854 775 807",
+      "time" : {
+        "start" : 1487168143252,
+        "stop" : 1487168143252,
+        "duration" : 0
+      },
+      "summary" : {
+        "attachments" : 0,
+        "steps" : 0
+      },
+      "status" : "PASSED",
+      "attachments" : [ ],
+      "steps" : [ ]
+    }, {
+      "name" : "operand1[9223372036854775807]",
+      "title" : "operand1 = 9 223 372 036 854 775 807",
+      "time" : {
+        "start" : 1487168143256,
+        "stop" : 1487168143256,
+        "duration" : 0
+      },
+      "summary" : {
+        "attachments" : 0,
+        "steps" : 0
+      },
+      "status" : "PASSED",
+      "attachments" : [ ],
+      "steps" : [ ]
+    } ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "4856@Meehos-PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : "Multiply suit"
+  }, {
+    "name" : "host",
+    "value" : "Meehos-PC"
+  }, {
+    "name" : "suite-name",
+    "value" : "MultiplyTest"
+  } ],
+  "parameters" : [ ]
+}

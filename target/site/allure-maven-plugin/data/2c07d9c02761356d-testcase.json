@@ -1,0 +1,107 @@
+{
+  "uid" : "2c07d9c02761356d",
+  "name" : "sum",
+  "title" : "check calculation",
+  "time" : {
+    "start" : 1487168142696,
+    "stop" : 1487168143112,
+    "duration" : 416
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 4
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "6a5abe982400dd4a",
+    "name" : "AdditionTest",
+    "title" : "Addition suit"
+  },
+  "steps" : [ {
+    "name" : "sum",
+    "title" : "addition operand1 and operand2",
+    "time" : {
+      "start" : 1487168143050,
+      "stop" : 1487168143105,
+      "duration" : 55
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 3
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ {
+      "name" : "operand1[5]",
+      "title" : "operand1 = 5",
+      "time" : {
+        "start" : 1487168143079,
+        "stop" : 1487168143091,
+        "duration" : 12
+      },
+      "summary" : {
+        "attachments" : 0,
+        "steps" : 0
+      },
+      "status" : "PASSED",
+      "attachments" : [ ],
+      "steps" : [ ]
+    }, {
+      "name" : "operand2[7]",
+      "title" : "operand2 = 7",
+      "time" : {
+        "start" : 1487168143099,
+        "stop" : 1487168143099,
+        "duration" : 0
+      },
+      "summary" : {
+        "attachments" : 0,
+        "steps" : 0
+      },
+      "status" : "PASSED",
+      "attachments" : [ ],
+      "steps" : [ ]
+    }, {
+      "name" : "result[12]",
+      "title" : "result 12",
+      "time" : {
+        "start" : 1487168143105,
+        "stop" : 1487168143105,
+        "duration" : 0
+      },
+      "summary" : {
+        "attachments" : 0,
+        "steps" : 0
+      },
+      "status" : "PASSED",
+      "attachments" : [ ],
+      "steps" : [ ]
+    } ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "4856@Meehos-PC.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "AdditionTest"
+  }, {
+    "name" : "framework",
+    "value" : "JUnit"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : "Addition suit"
+  }, {
+    "name" : "host",
+    "value" : "Meehos-PC"
+  } ],
+  "parameters" : [ ]
+}
