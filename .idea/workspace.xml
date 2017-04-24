@@ -2,163 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed45a2e1-b617-40f6-8991-0a91ee421309" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/4006b881-89cf-430d-b70e-e40deddd0018-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/59221808-aa74-4991-89ea-433c59121cf8-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/5f453f4c-3b29-492c-8b39-32af9bfd7235-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/allure-results/84102025-bdb0-4d6b-a0d3-e36d27a47f25-testsuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/testing/OperationException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/testing/Operations.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/testing/OperationsImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/css/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/3f08193a10a8c30b-testcase.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/49eebe0fb120a1f9-testcase.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/74a69f0d13227318-testcase.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/9595cec82c8811be-testcase.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/98398a679d6ced80-testcase.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/behaviors.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/ca7feca5458ff347-testcase.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/da421df829705194-testcase.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/dde089e7bb853b0c-testcase.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/defects.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/e0eb43fdc063e2f5-testcase.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/environment.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/graph.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/plugins.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/report.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/timeline.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/total.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/widgets.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/xunit.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/flash/clippy.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/img/allure-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/img/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/img/tests_passed.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/js/charts/charts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/js/charts/duration.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/js/charts/pie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/js/charts/severityMap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/js/charts/timeline.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/js/controllers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/js/directives.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/js/filters.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/js/overview/widgets.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/js/pane/pane.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/js/pluginApi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/js/scrollfix/scrollfix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/js/services.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/js/table/table.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/js/testcase/list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/js/testcase/provider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/js/testcase/statusSwitcher.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/js/testcase/testcase.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/behaviors/en.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/behaviors/ptbr.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/behaviors/ru.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/behaviors/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/behaviors/tab.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/defects/en.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/defects/ptbr.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/defects/ru.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/defects/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/defects/tab.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/environment/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/graph/en.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/graph/ptbr.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/graph/ru.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/graph/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/graph/tab.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/timeline/en.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/timeline/ptbr.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/timeline/ru.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/timeline/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/timeline/tab.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/total/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/xunit/en.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/xunit/ptbr.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/xunit/ru.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/xunit/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/xunit/tab.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/xunit/testrun.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/xunit/testsuite.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/templates/overview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/templates/overview/defects.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/templates/overview/keyValue.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/templates/overview/statistics.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/templates/overview/total.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/templates/table/table.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/templates/testcase/attachment.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/templates/testcase/list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/templates/testcase/status-switcher.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/templates/testcase/testcase.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/templates/testcase/testcaseView.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/translations/en.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/translations/ptbr.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/translations/ru.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/vendor/filesize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/vendor/localstorageprovider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/vendor/messageformat/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/vendor/messageformat/ptbr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/vendor/messageformat/ru.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/webjars/Sortable/1.2.0/Sortable.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/webjars/Sortable/1.2.0/ng-sortable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/webjars/angular-loading-bar/0.6.0/loading-bar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/webjars/angular-translate-interpolation-messageformat/0.1.2/angular-translate-interpolation-messageformat.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/webjars/angular-translate-loader-partial/2.6.0/angular-translate-loader-partial.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/webjars/angular-translate/2.6.0/angular-translate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/webjars/angular-ui-bootstrap/0.11.2/ui-bootstrap-tpls.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/webjars/angular-ui-router/0.2.13/angular-ui-router.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/webjars/angularjs/1.2.26/angular-animate.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/webjars/angularjs/1.2.26/angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/webjars/d3js/3.4.11/d3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/webjars/font-awesome/4.2.0/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/webjars/font-awesome/4.2.0/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/webjars/font-awesome/4.2.0/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/webjars/font-awesome/4.2.0/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/webjars/font-awesome/4.2.0/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/webjars/highlightjs/8.2-1/highlight.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/webjars/jquery/2.1.1/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/webjars/messageformat.js/0.1.4/messageformat.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/maven-base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/maven-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/print.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/site.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/collapsed.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/expanded.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/external.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_error_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_info_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_success_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_warning_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/logos/maven-feather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/newwindow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/project-reports.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/AdditionTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/DivideTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/MultiplyTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/SubtractTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-AdditionTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-DivideTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-MultiplyTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-SubtractTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/AdditionTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/DivideTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/MultiplyTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/Parameters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/SubtractTest.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Testing.iml" afterPath="$PROJECT_DIR$/Testing.iml" />
     </list>
     <ignored path="Testing.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -258,14 +102,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DivideTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DivideTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/DivideTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="514">
+              <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -329,6 +183,7 @@
         <option value="$PROJECT_DIR$/src/test/java/AdditionTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/DivideTest.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -609,6 +464,34 @@
       <predefined_log_file id="idea.log" enabled="true" />
       <method />
     </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -659,6 +542,136 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -673,6 +686,14 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -715,6 +736,22 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
@@ -772,6 +809,12 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -798,6 +841,22 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
     <list size="5">
@@ -849,8 +908,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1487016549570</updated>
-      <workItem from="1493023107670" duration="96000" />
+      <workItem from="1493023107670" duration="396000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1493023245378</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1493023245378</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -886,7 +953,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96000" />
+    <option name="totallyTimeSpent" value="396000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -946,6 +1013,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="6" />
@@ -957,14 +1028,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/testing/Operations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/testing/OperationsImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -1375,11 +1438,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/DivideTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="514">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
