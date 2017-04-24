@@ -1,6 +1,5 @@
 # Maven + JUnit + Allure #
-## Дано: ##
-***
+
 ### Дан файл вида: ###
 ***
 data file
