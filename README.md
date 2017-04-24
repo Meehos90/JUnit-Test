@@ -2,7 +2,7 @@
 
 ### Дан файл вида: ###
 ***
-data file
+data file  
 operand1;operand2;operation;result  
 operand1;operand2;operation;result  
 operand1;operand2;operation;result  
